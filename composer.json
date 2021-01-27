@@ -1,0 +1,16 @@
+{
+    "name": "siler-examples/issue-554",
+    "description": "Reproducing the bug reported on the issue 554",
+    "type": "project",
+    "require": {
+        "leocavalcante/siler": "^1.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leocavalcante",
+            "email": "lc@leocavalcante.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
